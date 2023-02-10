@@ -1,0 +1,9 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  background: rgb(189, 75, 223);
+  background: linear-gradient(250deg, rgb(189, 75, 223) 0%, rgb(255, 177, 67) 100%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}/*# sourceMappingURL=main.css.map */
